@@ -11,7 +11,7 @@ use-site-title: true
 
 **Instructors: Deborah Hurely, Sarah Brown**
 
-** TAs: Laura McCallion, Vipul Gupta **
+**TAs: Laura McCallion, Vipul Gupta**
 
 ---
 
