@@ -9,7 +9,9 @@ use-site-title: true
 
 ---
 
-**Instructors: Björn Sandstede, Alden Bumstead, Sarah Brown**
+**Instructors: Deborah Hurely, Sarah Brown**
+
+** TAs: Laura McCallion, Vipul Gupta **
 
 ---
 
